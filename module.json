@@ -12,6 +12,9 @@
       "flags": {}
     }
   ],
+  "url": "https://github.com/CrimsonPeach/CrimsonPack/main",
+  "system": "dnd5e",
+  "manifest": "https://raw.githubusercontent.com/CrimsonPeach/CrimsonPack/main/module.json",
   "packs": [
 	{
 		"name": "5e-creatures",
