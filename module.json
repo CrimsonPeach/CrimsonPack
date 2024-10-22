@@ -12,9 +12,6 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/CrimsonPeach/CrimsonPack/main",
-  "system": "dnd5e",
-  "manifest": "https://raw.githubusercontent.com/CrimsonPeach/CrimsonPack/main/module.json",
   "packs": [
 	{
 		"name": "5e-creatures",
@@ -144,5 +141,8 @@
 		"type": "Item",
 		"package": "5e-complete"
 	}
-  ]
+  ],
+  "url": "https://github.com/CrimsonPeach/CrimsonPack",
+  "manifest": "https://raw.githubusercontent.com/CrimsonPeach/CrimsonPack/main/module.json",
+  "download": "https://github.com/CrimsonPeach/CrimsonPack/archive/refs/tags/Tag_v1.zip",
 }
